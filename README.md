@@ -10,6 +10,7 @@ Instructions to Run and Use:
 1. Open any Python IDE, shell will work
 2. Run MandalapuSME.py
 3. To use the Mandelbrot Explorer:
+     
      a. Pick a color scheme
   
      b. Max iterations and step size don't need to be changed, the program is not optimized and changing these might make the image less    accurate or increase run time.
@@ -26,6 +27,7 @@ Instructions to Run and Use:
   
   
 4. To use the Julia Set Explorer
+    
      a. From the window that opens when the program is run, select a color scheme and click the Julia Set button. 
   
      b. Again, maximum iterations and step size need not be changed, but can be changed if you would like.
